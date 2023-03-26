@@ -9,7 +9,7 @@ ql = QLabel('Список заметок')
 lw = QListWidget()
 col1 = QVBoxLayout()
 col1.addWidget(text)
-
+dskjfhdsjfhdskjfhkjdsfhkjdsf
 col2 = QVBoxLayout()
 col2.addWidget(ql)
 col2.addWidget(lw)
